@@ -18,3 +18,6 @@
 5. Compiler 2 
 6. Operating System
 7. More Fun Go 
+
+# Book
+- The Elements of Computing Systems: Building a Modern Computer From First Principles 
