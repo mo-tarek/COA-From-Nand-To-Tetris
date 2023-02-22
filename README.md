@@ -33,4 +33,4 @@
 - **Project 11 :** Compiler 2: Code Generation
 - **Project 12 :** Operating System
 # Book
-- The Elements of Computing Systems: Building a Modern Computer From First Principles 
+- **The Elements of Computing Systems :** Building a Modern Computer From First Principles 
