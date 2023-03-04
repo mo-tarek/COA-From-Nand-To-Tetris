@@ -5,55 +5,6 @@
 
 # Part 1: Hardware 
 1. Boolean Logic 
-    - unit 0.0: Introduction
-    - unit 0.1: The Road ahead 
-    - unit 0.2: From Nand to Hack 
-    - unit 0.3: From Hack to Tetris 
-    - unit 0.4: Project 0 Overview
-    - unit 1.1: Boolean Logic 
-    - unit 1.2: Boolean Functions 
-    - Logic Gates
-    - Hardware Description Languagae 
-    - Hardware Simulation
-    - Multi-Bit Buses 
-    - Project 1 overview
-    - Prespectives 
-    - Binary Numbers 
-    - Binary Addition
-    - Negative Numbers 
-    - Arithmetic Logic Unit 
-    - Project 2 Overview
-    - Prespectives 
-    - Squential Logic 
-    - Flip Flops 
-    - Memory Units 
-    - Counters 
-    - Project 3 Overview
-    - Prespectives 
-    - Machine Languages Overview
-    - Machine Languages: Elements
-    - The Hack Computer and Machine Language 
-    - Hack Language Language Specification
-    - Input/Output 
-    - Hack Programming - Part 1 
-    - Hack Programming - Part 2 
-    - Hack Programming - Part 3 
-    - Project 4 Overview
-    - Prespectives 
-    - Von Neuman Architecture 
-    - The Fetch-Execute Cycle
-    - Centeral Processing Unit 
-    - The Hack Computer 
-    - Project 5 Overview
-    - Prespectives 
-    - Assembly Language and Assemblers 
-    - The Hack Assembly Language 
-    - The Assembly Process: Handling Instructions 
-    - The Assembly Process: Handling Symbols 
-    - Developing a Hack Assembler 
-    - Project 6 Overview: Programming Option
-    - Project 6 Overview: Without Programming 
-    - Prespectives 
 2. Boolean Arithmetic 
 3. Memory 
 4. Machine Language 
