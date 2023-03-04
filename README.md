@@ -1,124 +1,64 @@
-
-# Prerequisites
-
-- Introduction to CS (Computer Science)
-
-# Part 1: Hardware 
-1. Boolean Logic 
-2. Boolean Arithmetic 
-3. Memory 
-4. Machine Language 
-5. Computer Architecture
-6. Assembler
-
-# Part 2: Software 
-1. Virtual Machine 1 
-2. Virtual Machine 2 
-3. High Level Language 
-4. Compiler 1 
-5. Compiler 2 
-6. Operating System
-7. More Fun Go 
-
-# Projects
-- **Project 1 :** Boolean Logic 
-- **Project 2 :** Boolean Arithmetic 
-- **Project 3 :** Squential Logic 
-- **Project 4 :** Machine Language 
-- **Project 5 :** Computer Architecture
-- **Project 6 :** Assembler
-- **Project 7 :** VM 1 &rarr; Stack Arithmetic
-- **Project 8 :** VM 2 &rarr; Program Control
-- **Project 9 :** High-Level Language 
-- **Project 10 :** Compiler 1: Syntax Analysis 
-- **Project 11 :** Compiler 2: Code Generation
-- **Project 12 :** Operating System
-# Book
-- **The Elements of Computing Systems :** Building a Modern Computer From First Principles 
-
-
 # Week 1 
 ## Introduction
+  - Unit 0.0: Introduction
+  - Unit 0.1: The Road Ahead
+  - Unit 0.2: From Nand to Hack
+  - Unit 0.3: From Hack to Tetris
+  - Unit 0.4: Project 0 Overview
 ## Boolean Functions and Gate Logic
+  - Unit 1.1: Boolean Logic
+  - Unit 1.2: Boolean Functions Synthesis
+  - Unit 1.3: Logic Gates10m
+  - Unit 1.4: Hardware Description Language
+  - Unit 1.5: Hardware Simulation
+  - Unit 1.6: Multi-Bit Buses
+  - Unit 1.7: Project 1 Overview
+  - Unit 1.8: Perspectives
 ## General Course Information
+  - Promo Video
 # Week 2 
 ## Boolean Arithmetic and ALU 
+  - Unit 2.1: Binary Numbers
+  - Unit 2.2: Binary Addition
+  - Unit 2.3: Negative Numbers
+  - Unit 2.4: Arithmetic Logic Unit
+  - Unit 2.5: Project 2 Overview
+  - Unit 2.6: Perspectives
 # Week 3 
 ## Memory 
+  - Unit 3.1: Sequential Logic
+  - Unit 3.2: Flip Flops
+  - Unit 3.3: Memory Units
+  - Unit 3.4: Counters
+  - Unit 3.5: Project 3 Overview
+  - Unit 3.6: Perspectives
 # Week 4 
 ## Machine Language 
+  - Unit 4.1: Machine Languages: Overview
+  - Unit 4.2: Machine Languages: Elements 
+  - Unit 4.3: The Hack Computer and Machine Language
+  - Unit 4.4: Hack Language Specification
+  - Unit 4.5: Input / Output
+  - Unit 4.6: Hack Programming, Part 1
+  - Unit 4.7: Hack Programming, Part 2
+  - Unit 4.8: Hack Programming, Part 3 
+  - Unit 4.9: Project 4 Overview 
+  - Unit 4.10: Perspectives 
 # Week 5 
 ## Computer Architecture
+  - Unit 5.1: Von Neumann Architechture 
+  - Unit 5.2: The Fetch-Execute Cycle
+  - Unit 5.3: Central Processing Unit 
+  - Unit 5.4: The Hack Computer
+  - Unit 5.5: Project 5 Overview 
+  - Unit 5.6: Perspectives 
 # Week 6
 ## Assembler
-
-
-- unit 1.0: The Road ahead 
-- unit 1.1: Program Compilation Preview
-- unit 1.2: VM Abstraction - The Stack 
-- unit 1.3: VM Abstraction - Memory segments 
-- unit 1.4: VM Implementation - The Stack 
-- unit 1.5: Vm Implementation - Memory Segments 
-- The VM Emulator 
-- The VM Implementation on Hack Platform 
-- Project 7 - Building The VM Translator part 1 
-- unit 1.10: Prespective 
-- Program Control
-- Branching 
-- Functions - Abstraction
-- Function Call And Return - Implementation Preview 
-- Function Call and Return - Runtime Simulation
-- Function Call and Return - Implementation
-- VM Implementation on the Hack Platform 
-- VM Translator - Proposed Implementation
-- Project 8 - Building The VM Translator - Part 2 
-- Prespectives 
-- The VM Translator - Proposed Implementation
-- The Jack Language in a Nutshell 
-- Object-based Programming 
-- List Processing 
-- Jack Language Specficiation - Classes 
-- Jack Language Specification - Methods 
-- Developing Apps Using The Jack Language and OS 
-- A Sample Jack App - Square Dance 
-- Graphics Optimization
-- Prespective 
-- Syntax Analysis 
-- Lexical Analysis 
-- Grammers 
-- Parse Trees 
-- Parse Logic 
-- The Jack Grammer
-- The Jack Analyzer
-- The Jack Analyzer - Proposed Implementation
-- The Jack Analyzer - Project 10 - Build A syntax analyzer
-- Prespective 
-- Code Generation
-- Handling Variables 
-- Handling Expressions 
-- Handling Flow Control 
-- Handling Objects - Low-Level Aspects 
-- Handling Objects - Construction
-- Handling Objects - Manipulation
-- Handling Arrays 
-- Standard Mapping Over The Virtual Machine 
-- Completing The Compiler - Proposed Implementation
-- Project 11 
-- Prespective 
-- Operating System 
-- Efficiency Matters 
-- Mathematical Operations 
-- Memory Access 
-- Heap Management 
-- Graphics 
-- Line Drawing 
-- Handling Textual Output 
-- Input 
-- String Processing 
-- Array Processing 
-- The Sys Class 
-- Project 12: Building The OS 
-- Prespective 
-- More Fun to go 
-- More Fun to go 
-- More Fun to go 
+  - Unit 6.1: Assembly Languages and Assemblers
+  - Unit 6.2: The Hack Assembly Language
+  - Unit 6.3: The Assembly Process - Handling Instructions
+  - Unit 6.4: The Assembly Process - Handling Symbols
+  - Unit 6.5: Developing a Hack Assembler
+  - Unit 6.6: Project 6 Overview: Programming Option
+  - Unit 6.6B: Project 6 Overview: Without Programming
+  - Unit 6.7: Perspectives
